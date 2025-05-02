@@ -149,7 +149,7 @@ end
 
 if noxious["testing"] == true then
 	if istester(noxious["local player"].Name) then
-		loadstring(game:HttpGet("https://raw.githubusercontent.com/meowsynther/team-noxious-obfuscated/refs/heads/main/dandy's%20world/%5Bobf%5D%20%5Bmain%5D%20noxious%20hub.lua"))()
+		loadstring(game:HttpGet("https://raw.githubusercontent.com/meowsynther/team-noxious-obfuscated/refs/heads/main/dandy's%20world/developer/%5Bobf%5D%20%5Btest%5D%20noxious%20hub.lua"))()
 		return
 	end
 end
